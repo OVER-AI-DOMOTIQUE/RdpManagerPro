@@ -1,10 +1,6 @@
 # 🚀 RDP Manager Pro
 
 <p align="center">
-  <img src="docs/main-window.png" alt="RDP Manager Pro Main Window" width="900">
-</p>
-
-<p align="center">
   <strong>Gestionnaire moderne de connexions distantes RDP et SSH pour Windows</strong><br>
   Développé en <strong>WPF / C# / .NET Framework 4.8</strong>
 </p>
