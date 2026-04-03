@@ -165,6 +165,7 @@ Ce projet est publié en **source disponible** pour un usage **personnel et non 
 
 Pour toute demande d’utilisation commerciale, merci de contacter :
 **contact@iaover.fr** 
+
 Voir le fichier [LICENSE](LICENSE).
 
 ---
