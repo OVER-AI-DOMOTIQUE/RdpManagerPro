@@ -149,7 +149,22 @@ Avec **RDP Manager Pro**, vous pouvez :
 
 ## 📄 Licence
 
-Ce projet est distribué sous licence **MIT**.  
+Ce projet est publié en **source disponible** pour un usage **personnel et non commercial uniquement**.
+
+✅ Autorisé :
+- utilisation personnelle
+- consultation du code source
+- modification pour usage personnel
+- partage non commercial avec conservation de la licence
+
+❌ Interdit sans autorisation écrite :
+- vente du logiciel
+- intégration dans une offre commerciale
+- revente de copies modifiées ou non modifiées
+- usage commercial ou professionnel
+
+Pour toute demande d’utilisation commerciale, merci de contacter :
+**contact@iaover.fr** 
 Voir le fichier [LICENSE](LICENSE).
 
 ---
