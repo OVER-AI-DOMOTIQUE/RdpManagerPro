@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "+wPs0J0CX3k=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Over-Ai\\.gemini\\antigravity\\scratch\\RDPManager\\RDPManager.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Over-Ai\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
