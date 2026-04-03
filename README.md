@@ -18,7 +18,6 @@
   </a>
   <img src="https://img.shields.io/badge/Platform-Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows">
   <img src="https://img.shields.io/badge/WPF-.NET%20Framework%204.8-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET Framework 4.8">
-  <img src="https://img.shields.io/badge/Status-En%20développement-22C55E?style=for-the-badge" alt="Status">
   <img src="https://img.shields.io/badge/Licence-MIT-yellow?style=for-the-badge" alt="Licence MIT">
 </p>
 
@@ -144,42 +143,18 @@ Avec **RDP Manager Pro**, vous pouvez :
 
 ---
 
-## 🛣️ Roadmap
+## 👨‍💻 Auteur
 
-Fonctionnalités prévues pour les prochaines versions :
+**OVER-AI-DOMOTIQUE**
 
-- ➕ ajout / modification / suppression complète des connexions
-- ⭐ système de favoris
-- 📁 gestion avancée des groupes
-- 🔒 stockage sécurisé des identifiants
-- 🌐 test automatique de disponibilité des hôtes
-- 📤 import / export de configuration
-- 🎨 personnalisation du thème
-- 🔔 améliorations de la zone de notification
-- 🧠 options avancées de gestion et d’automatisation
+🌐 Site officiel : **[iaover.fr](https://iaover.fr)**
 
 ---
 
-## 📌 Statut du projet
+## 📄 Licence
 
-🟢 **Projet en cours de développement**
-
----
-
-## 🤝 Contribution
-
-Les suggestions, idées et contributions sont les bienvenues.
-
-### Étapes de contribution
-
-```bash
-git checkout -b feature/ma-fonctionnalite
-git add .
-git commit -m "Ajout de ma fonctionnalité"
-git push origin feature/ma-fonctionnalite
-```
-
-Puis ouvrez une **Pull Request** sur GitHub.
+Ce projet est distribué sous licence **MIT**.  
+Voir le fichier [LICENSE](LICENSE).
 
 ---
 
@@ -195,16 +170,3 @@ Puis ouvrez une **Pull Request** sur GitHub.
 </p>
 
 ---
-
-## 👨‍💻 Auteur
-
-**OVER-AI-DOMOTIQUE**
-
-🌐 Site officiel : **[iaover.fr](https://iaover.fr)**
-
----
-
-## 📄 Licence
-
-Ce projet est distribué sous licence **MIT**.  
-Voir le fichier [LICENSE](LICENSE).
